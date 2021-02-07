@@ -1,6 +1,8 @@
-# MastersThesis-DisentangledVAE
+# Masters Thesis- Learning Disentangled Representations of Repetitive Texture Using VAEs
 
-This is a copy of my Master's Thesis Project.
-Due to COVID-19 I decided to leave it unpublished. 
+Here's an abridged copy of CS Master's program final project.  
 
+## Link to Video Presentation
 [![Video Presentation](https://img.youtube.com/vi/0s-ID0SF0Xc/0.jpg)](https://www.youtube.com/watch?v=0s-ID0SF0Xc)
+
+## Link to Paper
