@@ -6,4 +6,4 @@ Here's an abridged copy of CS Master's program final project. The code can be fo
 [![Video Presentation](https://img.youtube.com/vi/0s-ID0SF0Xc/0.jpg)](https://www.youtube.com/watch?v=0s-ID0SF0Xc)
 
 ## Link to Paper
-![](https://github.com/HoltSpalding/MastersThesis-DisentangledVAE/blob/main/Master_sProject.pdf)
+!["link"](https://github.com/HoltSpalding/MastersThesis-DisentangledVAE/blob/main/Master_sProject.pdf)
